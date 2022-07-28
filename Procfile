@@ -1,0 +1,1 @@
+web: gununicorn herokupush.wsgi --log-file -
