@@ -1,4 +1,4 @@
-pypiwin32==220
+pypiwin32==219
 asgiref==3.5.2
 async-generator==1.10
 attrs==21.4.0
